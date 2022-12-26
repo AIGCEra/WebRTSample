@@ -93,6 +93,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Logo128WithChromium.ico" />
+    <Content Include="Tangram.app.html" />
     <Content Include="Tangram.index.html" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
