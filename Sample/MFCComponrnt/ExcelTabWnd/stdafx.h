@@ -22,5 +22,5 @@
 #include <atlbase.h>
 
 using namespace ATL;
-#include "../CommonFile/CommonUniverse.h"
+#include "CommonUniverse.h"
 using namespace CommonUniverse;
